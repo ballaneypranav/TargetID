@@ -189,7 +189,7 @@ python surface-genie-verify.py
 #### Git Branch Strategy
 - Main branch: Production-ready code
 - Feature branches: `claude/*` prefix for AI-assisted development
-- Current branch: `claude/claude-md-mi6v76z2xuhdq70s-01M6wdMmAyzYp1YHxvB1TstU`
+- Current branch: `claude/add-claude-documentation-01VLmYhvZXTNUQw97xC1533e`
 
 #### Commit Guidelines
 ```bash
